@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\ClubAdmin.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\ClubAdmin.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Desktop\images\v.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Desktop\images\exercise.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Desktop\images\language.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Desktop\images\coronavirus.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Desktop\images\database.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Desktop\images\information.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Desktop\images\cross.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\village.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\add.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\cancell.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\delete.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\modify.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\search.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\earth.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\abt.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\abt1.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\our.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\homa.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\homa1.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\homaup.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\upslide.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\uupslide.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\exit.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\icon7.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\refresh.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\trash.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\faa.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\paa.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\money.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\information.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\exercise.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\language.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\database.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\v.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\country.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ClubAdmin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ClubAdminDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Village.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Activitie.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Language.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Country.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AboutUs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Continents.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ClubAdmin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ClubAdminDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Village.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Activitie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Language.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Country.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AboutUs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Continents.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ClubAdmin.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
